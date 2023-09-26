@@ -514,6 +514,7 @@ while (opcion !== 0) {
       prompt();
       break;
     case 0:
+      console.clear();
       console.log("¡Gracias por usar nuestro programa de gestión de tareas!");
       console.log(
         "Esperamos que haya sido útil para organizar tus actividades."
